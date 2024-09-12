@@ -1,2 +1,5 @@
 data/
 .DS_Store
+houses.egg-info
+__pycache__
+.env
